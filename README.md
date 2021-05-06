@@ -28,14 +28,14 @@ acabas de clonar !!
 
 ```bash
 > cd FX-67
-> bash install.sh
-```
+> npm i
 
 ### Uso
 ```bash
 > npm start
 ```
-
+Canal De YouTube:
+https://youtube.com/channel/UCqCaZ_SEhSykF3-PR5os7YA
 
 ## Características
 LUEGO PONGO TODAS, ME DIO PAJA XDDDD
@@ -73,10 +73,11 @@ LUEGO PONGO TODAS, ME DIO PAJA XDDDD
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-## Special Thanks to
+## Gracias A
 * <a href="https://github.com/Fxmods/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/Fxmods/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## Grupo
+* <a href="https://chat.whatsapp.com/DAheuNgcvCj92UNcZFTKEo"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 
 
