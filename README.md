@@ -2,52 +2,44 @@
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WHATSAPP-BOT" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxmods"><img title="Author" src="https://img.shields.io/badge/Author-Fxmods-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Fxmods"><img title="CREADOR" src="https://img.shields.io/badge/Author-Fxmods-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxmods/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/Fxmods/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxmods?color=blue&style=flat-square"></a>
+<a href="https://github.com/Fxmods/FX-67/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxmods/FX-67?color=red&style=flat-square"></a>
+<a href="https://github.com/Fxmods/FX-67/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxmods/FX-67?color=red&style=flat-square"></a>
+<a href="https://github.com/Fxmods/FX-67/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxmods/FX-67?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.codefactor.io/repository/github/Fxmods/FX-67"><img src="https://www.codefactor.io/repository/github/Fxmods/FX-67/badge" alt="CodeFactor" /></a>
+<a href="#"><img title="ACTUALIZACIONES" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+## Clonar este proyecto
 
 ```bash
-> git clone https://github.com/Fxmods/termux-wabot
+> git clone https://github.com/Fxmods/FX-67
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Instale las dependencias:
+Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del proyecto que
+acabas de clonar !!
 
 ```bash
-> cd termux-wabot
+> cd FX-67
 > bash install.sh
 ```
 
-### Usage
+### Uso
 ```bash
 > npm start
 ```
 
-### Settings
-```json
-{
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
-	"apiKey": "Your ApiKey here"
-}
-```
 
-## Features
-
-| Sticker Creator |                Feature           |
+## Características
+LUEGO PONGO TODAS, ME DIO PAJA XDDDD
+| Creador de pegatinas |                Característica           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
@@ -55,7 +47,7 @@ you've just cloned!!
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
 
-| Other  |                     Feature                     |
+| Otro  |                     Característica                     |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
@@ -64,7 +56,7 @@ you've just cloned!!
 |       ✅        |   Url2Img ( Screeenshot Web )   |
 |       ✅        |   Simsimi		                |
 
-| Group  |                     Feature               |
+| Grupo  |                     Característica               |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Tagall/Mentionall member       |
 |       ✅        |   Tagall2/Mentionall member       |
