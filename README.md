@@ -2,18 +2,17 @@
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="WHATSAPP-BOT" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WHATSAPP-BOT" src="https://img.shields.io/badge/FX-67-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxmods"><img title="CREADOR" src="https://img.shields.io/badge/Author-Fxmods-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Fxmods"><img title="CREADOR" src="https://img.shields.io/badge/CREADOR-Fxmods-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Fxmods/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxmods?color=blue&style=flat-square"></a>
 <a href="https://github.com/Fxmods/FX-67/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxmods/FX-67?color=red&style=flat-square"></a>
 <a href="https://github.com/Fxmods/FX-67/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxmods/FX-67?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxmods/FX-67/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxmods/FX-67?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/Fxmods/FX-67"><img src="https://www.codefactor.io/repository/github/Fxmods/FX-67/badge" alt="CodeFactor" /></a>
-<a href="#"><img title="ACTUALIZACIONES" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/Fxmods/FX-67/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxmods/FX-67?label=VISITANTES&color=blue&style=flat-square"></a>
+<a href="#"><img title="ACTUALIZACIONES" src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
 </p>
 
 ## Clonar este proyecto
